@@ -1,6 +1,8 @@
 import React from 'react';
 import DrinksMenu from './components/DrinksMenu';
+import RefundDrink from './components/RefundDrink';
 import './App.css';
+
 
 const App = () => {
   return (
@@ -11,7 +13,10 @@ const App = () => {
           <h2 className="text-2xl font-bold text-center mb-6">Purchase</h2>
           <DrinksMenu />
         </div>
-        
+        <div className="bg-white p-6 rounded-lg shadow-lg">
+          <h2 className="text-2xl font-bold text-center mb-6">Purchase</h2>
+          <RefundDrink />
+        </div>
       </div>
     </div>
   );
