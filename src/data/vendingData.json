@@ -1,0 +1,26 @@
+
+  
+  {
+    "products": {
+      "Coke": {
+        "price": 20,
+        "stock": 10,
+        "image": "assets/coke.jpg"
+      },
+      "Pepsi": {
+        "price": 25,
+        "stock": 10,
+        "image": "assets/pepsi.jpg"
+      },
+      "Dew": {
+        "price": 30,
+        "stock": 10,
+        "image": "assets/dew.jpg"
+      }
+    },
+    "coins": 100,
+    "cash": 200
+  }
+  
+
+  
